@@ -1,3 +1,4 @@
 # Stanford-ML
-Slides and Homework Exercise for Machine Learning on Coursera offered on Coursera, taught by Andrew Ng.
-Course Link: https://www.coursera.org/learn/machine-learning
+Slides and Homework Exercise for course *Machine Learning* offered on Coursera, taught by Andrew Ng.
+
+Course Mainpage: https://www.coursera.org/learn/machine-learning
